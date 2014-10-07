@@ -4,7 +4,7 @@ are:
 
 * Headings: DIN Condensed
 * Body:
-    * Fira Sans
+    * [Fira Sans](https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
     * Fira Sans Light on all the pages
     * Fira Sans Regular on the Sponsorship slabs page
 
